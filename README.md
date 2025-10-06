@@ -1,6 +1,12 @@
+<div align="center"><p>
+  &nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark"
+    alt="knivesama" />
+</p>
+</div>
 <br clear="both">
 
-<h1 align="left">Greetings 👋 I am KNiveSAMA</h1>
+<h1 align="center">Greetings 👋 I am KNiveSAMA</h1>
 
 ###
 
@@ -30,11 +36,11 @@
 
 ###
 
-<h2 align="left">I depends on :</h2>
+<h2 align="left">My Live depends on :</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -58,11 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<div><p>
-  &nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark"
-    alt="knivesama" />
-</p>
+<div>
+  
 </div>
 
 ###
