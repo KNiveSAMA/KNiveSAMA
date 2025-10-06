@@ -58,4 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<div><p>
+  &nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark"
+    alt="knivesama" />
+</p>
+</div>
+
 ###
