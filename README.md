@@ -8,11 +8,7 @@
 
 ###
 
-<p align="left">Uispekusei! Chape! Chape! Chape! Chape! Ape! Kara! Kina! Kara! Ape! Chape!<br>Jokyo! Tobi Jokyo! Tora! Tora! Tora! Tora Hi! Jinzou Seni Ama Shindou Kasen!<br>Nojou! Mai! Umiu! Tiao!<br>Jokyo Tobe Kasen Shinodu Ama Seni Jinzou Hi!<br>Tora Hi!x2 Tora!x3 jinzei!<br>Ama Shindou! Ama Shin! Ama Shin! Ama shindou! Ama Shin Ama Shin Jinzou Hi!<br>Tora! Hi! Jinzou! Senni! Ama! Shindou! Kasen! Tobe! Jokyou!<br>Tiao! Umiu! Mai! Nojou!</p>
-
-###
-
-<p align="center">Namida No Shounan</p>
+<p align="center">Uispekusei! Chape! Chape! Chape! Chape! Ape! Kara! Kina! Kara! Ape! Chape!<br>Jokyo! Tobi Jokyo! Tora! Tora! Tora! Tora Hi! Jinzou Seni Ama Shindou Kasen!<br>Nojou! Mai! Umiu! Tiao!<br>Jokyo Tobe Kasen Shinodu Ama Seni Jinzou Hi!<br>Tora Hi!x2 Tora!x3 jinzei!<br>Ama Shindou! Ama Shin! Ama Shin! Ama shindou! Ama Shin Ama Shin Jinzou Hi!<br>Tora! Hi! Jinzou! Senni! Ama! Shindou! Kasen! Tobe! Jokyou!<br>Tiao! Umiu! Mai! Nojou!</p>
 
 ###
 
@@ -20,7 +16,9 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/K_NIVE_SAMA">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=K_NIVE_SAMA&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=38fb4qdt3upl8kobl73jn9x6q&count=3&width=800&unique=true" />
+
+
   </a>
 </div>
 
