@@ -6,12 +6,21 @@
 </div>
 <div>
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" alt="knivesama" /> 
+    <img 
+      align="left" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" 
+      alt="knivesama" 
+      width="48%" />
   </p>
   <p>
-    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark" alt="knivesama" />
+    <img 
+      align="right" 
+      src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark" 
+      alt="knivesama" 
+      width="48%" />
   </p>
 </div>
+
 <br clear="both">
 
 <h1 align="center">Greetings 👋 I am KNiveSAMA</h1>
