@@ -5,13 +5,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knivesama&show_icons=true&theme=dark&locale=en&layout=compact" alt="knivesama" /></p>
 </div>
 <div>
-  <p>
+  <tr>
+    <td>
     <img 
       align="left" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" 
       alt="knivesama" 
       width="48%" />
-  </p>
+  </td>
+  <td>
   <p>
     <img 
       align="right" 
@@ -19,6 +21,8 @@
       alt="knivesama" 
       width="48%" />
   </p>
+    </td>
+  </tr>
 </div>
 
 <br clear="both">
