@@ -4,6 +4,12 @@
     alt="knivesama" />
 </p>
 </div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knivesama&show_icons=true&theme=dark&locale=en&layout=compact" alt="knivesama" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" alt="knivesama" /></p></div>
+
 <br clear="both">
 
 <h1 align="center">Greetings 👋 I am KNiveSAMA</h1>
