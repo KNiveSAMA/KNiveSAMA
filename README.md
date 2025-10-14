@@ -7,8 +7,8 @@
 
 <div>
   <tr>
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" alt="knivesama" width="48%" /></td>
-    <td><img align="right" src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark" alt="knivesama" width="48%" /></td>
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=knivesama&theme=dark" alt="knivesama" width="auto" /></td>
+    <td><img align="right" src="https://github-readme-stats.vercel.app/api?username=knivesama&show_icons=true&locale=en&theme=dark" alt="knivesama" width="auto" /></td>
   </tr>
 </div>
 
